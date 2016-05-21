@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi. I am Thuc. I am from Vietname.
